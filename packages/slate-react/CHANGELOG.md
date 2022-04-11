@@ -1,5 +1,11 @@
 # slate-react
 
+## 0.77.0
+
+### Minor Changes
+
+- [#4926](https://github.com/ianstormtaylor/slate/pull/4926) [`076ab9a6`](https://github.com/ianstormtaylor/slate/commit/076ab9a67a5d7bf54062e551e6c29b1464da7e99) Thanks [@Auralytical](https://github.com/Auralytical)! - Fix firefox three digit version check
+
 ## 0.76.1
 
 ### Patch Changes
